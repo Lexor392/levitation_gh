@@ -1,0 +1,67 @@
+.header {
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+    margin-top: 40px;
+
+    .container {
+        width: 1280px;
+        margin: 0 auto;
+
+        a {
+            color: rgb(255, 255, 255);
+        }
+
+        .navbar {
+            color: rgb(255, 255, 255);
+            font-family: 'Purple Smile';
+            font-weight: 400;
+            letter-spacing: 0%;
+
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            .navbar-brand {
+                font-size: 39.44px;
+                line-height: 57px;
+            }
+
+            .navbar-collapse {
+                .navbar-nav {
+                    list-style-type: none;
+                    width: 478px;
+                    display: flex;
+                    justify-content: space-between;
+
+                    .nav-item {
+                        .animated-link {
+                            color: rgb(224, 224, 224);
+                        }
+                    }
+                }
+            }
+
+            .navbar-button {
+                .btn {
+                    width: 164px;
+                    height: 51px;
+                    background: none;
+                    border: 2px solid rgb(255, 255, 255);
+                    border-radius: 49px;
+
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                    font-family: 'Purple Smile';
+                    color: rgb(255, 255, 255);
+                    font-size: 18.78px;
+                    line-height: 27px;
+                    cursor: pointer;
+                }
+            }
+        }
+
+    }
+}

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/levitation_gh/static/css/main.e35aac3c.css",
-    "main.js": "/levitation_gh/static/js/main.bd07d158.js",
+    "main.css": "/levitation_gh/static/css/main.3125f821.css",
+    "main.js": "/levitation_gh/static/js/main.8de0d8c0.js",
     "static/js/453.59d5b2d8.chunk.js": "/levitation_gh/static/js/453.59d5b2d8.chunk.js",
     "static/media/background_1.png": "/levitation_gh/static/media/background_1.666a206d4bdf11f215af.png",
     "index.html": "/levitation_gh/index.html",
-    "main.e35aac3c.css.map": "/levitation_gh/static/css/main.e35aac3c.css.map",
-    "main.bd07d158.js.map": "/levitation_gh/static/js/main.bd07d158.js.map",
+    "main.3125f821.css.map": "/levitation_gh/static/css/main.3125f821.css.map",
+    "main.8de0d8c0.js.map": "/levitation_gh/static/js/main.8de0d8c0.js.map",
     "453.59d5b2d8.chunk.js.map": "/levitation_gh/static/js/453.59d5b2d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e35aac3c.css",
-    "static/js/main.bd07d158.js"
+    "static/css/main.3125f821.css",
+    "static/js/main.8de0d8c0.js"
   ]
 }

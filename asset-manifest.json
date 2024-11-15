@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/levitation_gh/static/css/main.85bea1dc.css",
-    "main.js": "/levitation_gh/static/js/main.08300161.js",
+    "main.css": "/levitation_gh/static/css/main.7ecd2cb6.css",
+    "main.js": "/levitation_gh/static/js/main.cd2e9350.js",
     "static/js/453.59d5b2d8.chunk.js": "/levitation_gh/static/js/453.59d5b2d8.chunk.js",
     "static/media/background_1.png": "/levitation_gh/static/media/background_1.255d8e6ba32ce14d2aa2.png",
     "static/media/FUNGIS Regular.ttf": "/levitation_gh/static/media/FUNGIS Regular.3337d4ac3e647ee5c73f.ttf",
     "static/media/FUNGIS Regular.woff": "/levitation_gh/static/media/FUNGIS Regular.8e3cbd505a7bb265d9f3.woff",
     "static/media/FUNGIS Regular.eot": "/levitation_gh/static/media/FUNGIS Regular.ec958c44a0c08b16bf7f.eot",
     "index.html": "/levitation_gh/index.html",
-    "main.85bea1dc.css.map": "/levitation_gh/static/css/main.85bea1dc.css.map",
-    "main.08300161.js.map": "/levitation_gh/static/js/main.08300161.js.map",
+    "main.7ecd2cb6.css.map": "/levitation_gh/static/css/main.7ecd2cb6.css.map",
+    "main.cd2e9350.js.map": "/levitation_gh/static/js/main.cd2e9350.js.map",
     "453.59d5b2d8.chunk.js.map": "/levitation_gh/static/js/453.59d5b2d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85bea1dc.css",
-    "static/js/main.08300161.js"
+    "static/css/main.7ecd2cb6.css",
+    "static/js/main.cd2e9350.js"
   ]
 }

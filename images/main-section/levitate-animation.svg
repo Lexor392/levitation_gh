@@ -1,0 +1,25 @@
+<svg width="7.334106" height="26.545662" viewBox="0 0 7.33411 26.5457" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_24_2_dd" x="0.000000" y="0.000000" width="7.334106" height="26.545662" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="0"/>
+			<feGaussianBlur stdDeviation="0.366667"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_24_2_dd)">
+		<path id="Vector 2" d="M3.21 24.94C5 23.08 5.68 21.5 5.73 19.06C5.77 16.63 4.82 16.11 3.42 13.27C2.37 11.12 1.55 9.84 1.6 7.46C1.64 5.08 2.84 3.89 3.63 1.6" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linecap="round">
+			<animate 
+				attributeName="d"
+				values="M3.21 24.94C5 23.08 5.68 21.5 5.73 19.06C5.77 16.63 4.82 16.11 3.42 13.27C2.37 11.12 1.55 9.84 1.6 7.46C1.64 5.08 2.84 3.89 3.63 1.6; M3.21 23.94C5 22.08 5.68 20.5 5.73 18.06C5.77 15.63 4.82 15.11 3.42 12.27C2.37 10.12 1.55 8.84 1.6 6.46C1.64 4.08 2.84 2.89 3.63 0.6; M3.21 24.94C5 23.08 5.68 21.5 5.73 19.06C5.77 16.63 4.82 16.11 3.42 13.27C2.37 11.12 1.55 9.84 1.6 7.46C1.64 5.08 2.84 3.89 3.63 1.6"
+				dur="2s" repeatCount="indefinite" />
+		</path>
+	</g>
+</svg>

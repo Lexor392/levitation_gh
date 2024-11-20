@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/levitation_gh/static/css/main.92ffc011.css",
-    "main.js": "/levitation_gh/static/js/main.3e380fc4.js",
+    "main.css": "/levitation_gh/static/css/main.5c4a4eb0.css",
+    "main.js": "/levitation_gh/static/js/main.6737cd99.js",
     "static/js/453.59d5b2d8.chunk.js": "/levitation_gh/static/js/453.59d5b2d8.chunk.js",
     "static/media/walking-in-mushforest.png": "/levitation_gh/static/media/walking-in-mushforest.41501cda2d1d14fd30da.png",
     "static/media/FUNGIS Regular.ttf": "/levitation_gh/static/media/FUNGIS Regular.3337d4ac3e647ee5c73f.ttf",
     "static/media/FUNGIS Regular.woff": "/levitation_gh/static/media/FUNGIS Regular.8e3cbd505a7bb265d9f3.woff",
     "static/media/FUNGIS Regular.eot": "/levitation_gh/static/media/FUNGIS Regular.ec958c44a0c08b16bf7f.eot",
     "static/media/frame-clouds.png": "/levitation_gh/static/media/frame-clouds.231ae933bd0e20a36ab0.png",
+    "static/media/instagram-icon-hover.svg": "/levitation_gh/static/media/instagram-icon-hover.35f83f6d17d7bad05c61.svg",
+    "static/media/instagram-icon.svg": "/levitation_gh/static/media/instagram-icon.e15723d1ac7e74b62572.svg",
+    "static/media/telegram-icon-hover.svg": "/levitation_gh/static/media/telegram-icon-hover.72d1fa3ab352c29c9607.svg",
+    "static/media/telegram-icon.svg": "/levitation_gh/static/media/telegram-icon.f9a83299d376b5e9fd36.svg",
+    "static/media/youtube-icon-hover.svg": "/levitation_gh/static/media/youtube-icon-hover.2749b5d09113b2818003.svg",
+    "static/media/youtube-icon.svg": "/levitation_gh/static/media/youtube-icon.5e98eab7eebca47fa3c2.svg",
     "index.html": "/levitation_gh/index.html",
-    "main.92ffc011.css.map": "/levitation_gh/static/css/main.92ffc011.css.map",
-    "main.3e380fc4.js.map": "/levitation_gh/static/js/main.3e380fc4.js.map",
+    "main.5c4a4eb0.css.map": "/levitation_gh/static/css/main.5c4a4eb0.css.map",
+    "main.6737cd99.js.map": "/levitation_gh/static/js/main.6737cd99.js.map",
     "453.59d5b2d8.chunk.js.map": "/levitation_gh/static/js/453.59d5b2d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92ffc011.css",
-    "static/js/main.3e380fc4.js"
+    "static/css/main.5c4a4eb0.css",
+    "static/js/main.6737cd99.js"
   ]
 }

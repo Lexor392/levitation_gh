@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/levitation_gh/static/css/main.aed1c0ba.css",
-    "main.js": "/levitation_gh/static/js/main.d5874b00.js",
+    "main.css": "/levitation_gh/static/css/main.f709716d.css",
+    "main.js": "/levitation_gh/static/js/main.e300a221.js",
     "static/js/453.4bb63f85.chunk.js": "/levitation_gh/static/js/453.4bb63f85.chunk.js",
-    "static/media/backgrpund.png": "/levitation_gh/static/media/backgrpund.35704c74d935884d66ec.png",
+    "static/media/section-bg.png": "/levitation_gh/static/media/section-bg.02f185201a7dd7a8221a.png",
     "static/media/walking-in-mushforest.png": "/levitation_gh/static/media/walking-in-mushforest.41501cda2d1d14fd30da.png",
+    "static/media/backgrpund.png": "/levitation_gh/static/media/backgrpund.b2ed9fb71c30bb8b7001.png",
+    "static/media/backgrpund-mobile.png": "/levitation_gh/static/media/backgrpund-mobile.113d94701fd7c313474a.png",
     "static/media/FUNGIS Regular.ttf": "/levitation_gh/static/media/FUNGIS Regular.3337d4ac3e647ee5c73f.ttf",
     "static/media/FUNGIS Regular.woff": "/levitation_gh/static/media/FUNGIS Regular.8e3cbd505a7bb265d9f3.woff",
     "static/media/LEVITATION.png": "/levitation_gh/static/media/LEVITATION.26aa5cc996efc351fdbe.png",
@@ -21,14 +23,20 @@
     "static/media/insta-hover.svg": "/levitation_gh/static/media/insta-hover.37eca38e87931d6fbb20.svg",
     "static/media/insta-active.svg": "/levitation_gh/static/media/insta-active.6c100d1af669734c7fb2.svg",
     "index.html": "/levitation_gh/index.html",
+    "static/media/arrow-next-hover.svg": "/levitation_gh/static/media/arrow-next-hover.505cb1bebf88c9fe8144.svg",
+    "static/media/arrow-next-static.svg": "/levitation_gh/static/media/arrow-next-static.505cb1bebf88c9fe8144.svg",
+    "static/media/arrow-prev-hover.svg": "/levitation_gh/static/media/arrow-prev-hover.8d53d23d27220b147ef3.svg",
+    "static/media/arrow-prev-static.svg": "/levitation_gh/static/media/arrow-prev-static.8d53d23d27220b147ef3.svg",
+    "static/media/arrow-next-disabled.svg": "/levitation_gh/static/media/arrow-next-disabled.1ae12f74ef04a67846b2.svg",
+    "static/media/arrow-prev-disabled.svg": "/levitation_gh/static/media/arrow-prev-disabled.74e1ad3a62ac070213db.svg",
     "static/media/fb-active.svg": "/levitation_gh/static/media/fb-active.317225b1be216f9a26dc.svg",
     "static/media/fb-hover.svg": "/levitation_gh/static/media/fb-hover.3937c98b5ff8ca65fa68.svg",
-    "main.aed1c0ba.css.map": "/levitation_gh/static/css/main.aed1c0ba.css.map",
-    "main.d5874b00.js.map": "/levitation_gh/static/js/main.d5874b00.js.map",
+    "main.f709716d.css.map": "/levitation_gh/static/css/main.f709716d.css.map",
+    "main.e300a221.js.map": "/levitation_gh/static/js/main.e300a221.js.map",
     "453.4bb63f85.chunk.js.map": "/levitation_gh/static/js/453.4bb63f85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aed1c0ba.css",
-    "static/js/main.d5874b00.js"
+    "static/css/main.f709716d.css",
+    "static/js/main.e300a221.js"
   ]
 }

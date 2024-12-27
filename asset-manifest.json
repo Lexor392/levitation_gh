@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/levitation_gh/static/css/main.9d64159f.css",
-    "main.js": "/levitation_gh/static/js/main.9f1d18da.js",
+    "main.css": "/levitation_gh/static/css/main.444d9c32.css",
+    "main.js": "/levitation_gh/static/js/main.bd9a0556.js",
     "static/js/453.4bb63f85.chunk.js": "/levitation_gh/static/js/453.4bb63f85.chunk.js",
     "static/media/section-bg.png": "/levitation_gh/static/media/section-bg.02f185201a7dd7a8221a.png",
     "static/media/walking-in-mushforest.png": "/levitation_gh/static/media/walking-in-mushforest.41501cda2d1d14fd30da.png",
@@ -31,12 +31,12 @@
     "static/media/arrow-prev-disabled.svg": "/levitation_gh/static/media/arrow-prev-disabled.74e1ad3a62ac070213db.svg",
     "static/media/fb-active.svg": "/levitation_gh/static/media/fb-active.317225b1be216f9a26dc.svg",
     "static/media/fb-hover.svg": "/levitation_gh/static/media/fb-hover.3937c98b5ff8ca65fa68.svg",
-    "main.9d64159f.css.map": "/levitation_gh/static/css/main.9d64159f.css.map",
-    "main.9f1d18da.js.map": "/levitation_gh/static/js/main.9f1d18da.js.map",
+    "main.444d9c32.css.map": "/levitation_gh/static/css/main.444d9c32.css.map",
+    "main.bd9a0556.js.map": "/levitation_gh/static/js/main.bd9a0556.js.map",
     "453.4bb63f85.chunk.js.map": "/levitation_gh/static/js/453.4bb63f85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d64159f.css",
-    "static/js/main.9f1d18da.js"
+    "static/css/main.444d9c32.css",
+    "static/js/main.bd9a0556.js"
   ]
 }
